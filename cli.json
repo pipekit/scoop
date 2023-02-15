@@ -1,12 +1,12 @@
 {
-    "version": "0.14.1",
+    "version": "0.14.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pipekit/cli/releases/download/v0.14.1/cli_0.14.1_windows_amd64.zip",
+            "url": "https://github.com/pipekit/cli/releases/download/v0.14.2/cli_0.14.2_windows_amd64.zip",
             "bin": [
                 "pipekit.exe"
             ],
-            "hash": "562defec9d1eacd35789180fd6efd68715c209a4f8fb7498e90dc5b2adc19671"
+            "hash": "2eea2b763fd47df111c3edde2156c3342b5b644eb9e3ec644220fea20357442d"
         }
     },
     "homepage": "https://pipekit.io/",
